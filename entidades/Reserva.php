@@ -13,8 +13,8 @@ class Reserva {
 	public function __construct($idReserva, $pessoa, $data, $sala, $dataReserva,
 $horarioEntrada, $horarioSaida, $obs, $equip = null) {
 
-		$this->idReserva= $idReserva;
-		$this->pessoa = $pessoa;
+	$this->idReserva= $idReserva;
+	$this->pessoa = $pessoa;
 	$this->data = $data;
 	$this->sala = $sala;
 	$this->dataReserva = $dataReserva;

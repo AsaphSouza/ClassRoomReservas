@@ -2,7 +2,7 @@
 class Equipamento {
     private $idEquipamento;
     private $nome;
-    private $disponibilidade;
+	private $disponibilidade;
 	
 	public function __construct($idEquipamento, $nome, $disponibilidade) {
 		$this->idEquipamento = $idEquipamento;

@@ -24,7 +24,7 @@
 					<i class="fa fa-user fa-5x"></i>					
 				</div>					
 				<div class="col-xs-12 text-center">						
-					<p>Clientes</p>					
+					<p>Salas</p>					
 				</div>				
 			</div>			
 		</a>		
